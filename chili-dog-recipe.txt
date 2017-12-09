@@ -1,0 +1,10 @@
+Ingredients:
+ - 1 sausage
+ - chili from my chili-recipe
+ - artisan bun
+
+Directions:
+ 1. toast those buns
+ 2. toast that sausage
+ 3. put sausage on buns
+ 4. put chili on sauage
